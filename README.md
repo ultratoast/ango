@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The `src` Directory
 
 ## Overview
@@ -46,3 +47,9 @@ a Grunt template, so variables from `Gruntfile.js` and `package.json` can be
 referenced from within it. Changing `name` in `package.json` from
 "ng-boilerplate" will rename the resultant CSS and JavaScript placed in `build/`,
 so this HTML references them by variable for convenience.
+=======
+ango
+====
+
+Angular app running on a razor thin go server
+>>>>>>> 85ae406d27ae4d23898b4b726b84227c65cbedcd
